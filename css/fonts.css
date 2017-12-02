@@ -1,0 +1,66 @@
+@font-face{
+	font-family:"Lato";
+	src: url("../fonts/Lato/Lato-Regular.ttf");
+}
+
+@font-face{
+	font-family:"Roboto";
+	src:url("../fonts/Roboto/Roboto-Regular.ttf");
+}
+
+@font-face{
+	font-family:"Roboto-bold";
+	src:url("../fonts/Roboto/Roboto-Bold.ttf")
+}
+
+@font-face{
+	font-family:"Roboto-italic";
+	src:url("../fonts/Roboto/Roboto-Italic.ttf");
+}
+
+@font-face{
+	font-family:"OpenSans";
+	src:url("../fonts/Open_sans/OpenSans-Regular.ttf");
+}
+
+@font-face{
+	font-family:"Opensans-bold";
+	src:url("../fonts/Open_sans/OpenSans-Bold.ttf");
+}
+
+@font-face{
+	font-family:"OpenSans-light";
+	src:url("../fonts/Open_sans/OpenSans-Light.ttf");
+}
+
+@font-face{
+	font-family:"OpenSans-semibold";
+	src:url("../fonts/Open_sans/OpenSans-SemiBold.ttf");
+}
+
+@font-face{
+	font-family:"Oswald";
+	src:url(../fonts/Oswald/Oswald-Regular.ttf);
+}
+
+@font-face{
+	font-family:"Oswald-bold";
+	src:url(../fonts/Oswald/Oswald-Bold.ttf);
+}
+
+@font-face{
+	font-family:"Oswald-light";
+	src:url(../fonts/Oswald/Oswald-Light.ttf);
+}
+
+@font-face{
+	font-family:"Poppins";
+	src:url(../fonts/Poppins/Poppins-Regular.ttf);
+}
+
+@font-face{
+	font-family:"Poppins-ExtraBold";
+	src:url(../fonts/Poppins/Poppins-ExtraBold.ttf);
+}
+
+
